@@ -1,0 +1,9 @@
+138387f9ae47544bc57928ea008a4fb1 *DESCRIPTION
+42f5f9ceb1b033030afafa46b55bba0a *NAMESPACE
+37b348faa7ac7cf43d1a69d53a7857dd *R/AdjBQR.R
+e93d90879d9253f82b842eeb7da9b91f *man/BCQR.Rd
+87d56e3d75f06331cb7a5136aea6be2c *man/BQR.Rd
+b028c297fe4a07b8c744c9565ce85493 *man/li_powell.Rd
+a1aea3eef0834e04d1d16500aee5f8e1 *man/li_reg.Rd
+71c6b2b328d8b90174d434913bf5022f *man/sigma_est.Rd
+084b818cc12b8b94ea81645ef969a163 *man/sigma_est_powell.Rd
